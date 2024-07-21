@@ -1,4 +1,8 @@
-key1: value1
-key2:
-  subkey1: subvalue1
-  subkey2: subvalue2
+AUGMENTATION: True
+IMAGE_SIZE: [224, 224, 3] 
+BATCH_SIZE: 16
+INCLUDE_TOP: False
+EPOCHS: 100
+CLASSES: 2
+WEIGHTS: imagenet
+LEARNING_RATE: 0.01 
