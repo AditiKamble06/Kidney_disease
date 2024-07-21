@@ -77,4 +77,3 @@ class ConfigurationManager:
             params_batch_size=self.params.BATCH_SIZE
         )
         return eval_config     
-     
