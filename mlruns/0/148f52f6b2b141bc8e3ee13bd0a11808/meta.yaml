@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/kidney_disease/mlruns/0/148f52f6b2b141bc8e3ee13bd0a11808/artifacts
+end_time: 1721555820445
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 148f52f6b2b141bc8e3ee13bd0a11808
+run_name: adorable-bird-819
+run_uuid: 148f52f6b2b141bc8e3ee13bd0a11808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721555812947
+status: 3
+tags: []
+user_id: ADITI

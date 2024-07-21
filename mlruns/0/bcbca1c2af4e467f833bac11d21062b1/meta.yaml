@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/kidney_disease/mlruns/0/bcbca1c2af4e467f833bac11d21062b1/artifacts
+end_time: 1721569033883
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bcbca1c2af4e467f833bac11d21062b1
+run_name: rumbling-perch-354
+run_uuid: bcbca1c2af4e467f833bac11d21062b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721569019505
+status: 3
+tags: []
+user_id: ADITI

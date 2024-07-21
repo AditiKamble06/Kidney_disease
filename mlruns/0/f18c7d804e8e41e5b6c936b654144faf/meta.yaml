@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/kidney_disease/mlruns/0/f18c7d804e8e41e5b6c936b654144faf/artifacts
+end_time: 1721553993803
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f18c7d804e8e41e5b6c936b654144faf
+run_name: painted-gnat-472
+run_uuid: f18c7d804e8e41e5b6c936b654144faf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721553985839
+status: 3
+tags: []
+user_id: ADITI

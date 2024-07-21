@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/kidney_disease/mlruns/0/d41f35df407c48a2925d19f9997c3f23/artifacts
+end_time: 1721555783378
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d41f35df407c48a2925d19f9997c3f23
+run_name: valuable-auk-270
+run_uuid: d41f35df407c48a2925d19f9997c3f23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721555775899
+status: 3
+tags: []
+user_id: ADITI

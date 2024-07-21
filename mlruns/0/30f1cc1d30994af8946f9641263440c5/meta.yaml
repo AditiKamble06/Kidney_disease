@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/kidney_disease/mlruns/0/30f1cc1d30994af8946f9641263440c5/artifacts
+end_time: 1721553555246
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30f1cc1d30994af8946f9641263440c5
+run_name: resilient-seal-260
+run_uuid: 30f1cc1d30994af8946f9641263440c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721553542541
+status: 3
+tags: []
+user_id: ADITI
